@@ -4,6 +4,8 @@
 
 I developed the Chat project, where I developed the layout and added the functionality to post new messages.
 
+Link in [Netlify](https://chat-boracodar-vagnernerves.netlify.app/)
+
 <!-- ## 🎥 Implementation Video
 
 In the GitHub edit, drag the video that it already puts on github itself. -->
