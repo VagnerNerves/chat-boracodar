@@ -6,9 +6,13 @@ I developed the Chat project, where I developed the layout and added the functio
 
 Link in [Netlify](https://chat-boracodar-vagnernerves.netlify.app/)
 
-<!-- ## 🎥 Implementation Video
+## 🎥 Implementation Video
 
-In the GitHub edit, drag the video that it already puts on github itself. -->
+
+
+https://user-images.githubusercontent.com/40831841/214973939-bc905540-5099-4aa5-ad40-92f16a39c3c8.mp4
+
+
 
 ## 🎨 Layout
 
