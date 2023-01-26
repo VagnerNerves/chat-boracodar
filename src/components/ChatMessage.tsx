@@ -16,10 +16,13 @@ export function ChatMessage({ name, message, you }: ChatMessageProps) {
     >
       <span className="block text-xs mb-[0.625rem]">{name}</span>
       <p
-        className={clsx('text-xs p-[0.875rem] rounded-bl-lg max-w-[50%]', {
-          'bg-violet-500 rounded-r-lg': you === true,
-          'bg-green-700 rounded-t-lg': you === false
-        })}
+        className={clsx(
+          'text-xs p-[0.875rem] rounded-bl-lg max-w-[50%] break-words',
+          {
+            'bg-violet-500 rounded-r-lg': you === true,
+            'bg-green-700 rounded-t-lg': you === false
+          }
+        )}
       >
         {message}
       </p>
